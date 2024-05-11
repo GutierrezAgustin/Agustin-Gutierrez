@@ -1,0 +1,15 @@
+D:\Vs\C#\Agustin-Gutierrez\ProyectoFinal\Agustin-Gutierrez\Agustin-Gutierrez\bin\Debug\net8.0\Agustin-Gutierrez.exe
+D:\Vs\C#\Agustin-Gutierrez\ProyectoFinal\Agustin-Gutierrez\Agustin-Gutierrez\bin\Debug\net8.0\Agustin-Gutierrez.deps.json
+D:\Vs\C#\Agustin-Gutierrez\ProyectoFinal\Agustin-Gutierrez\Agustin-Gutierrez\bin\Debug\net8.0\Agustin-Gutierrez.runtimeconfig.json
+D:\Vs\C#\Agustin-Gutierrez\ProyectoFinal\Agustin-Gutierrez\Agustin-Gutierrez\bin\Debug\net8.0\Agustin-Gutierrez.dll
+D:\Vs\C#\Agustin-Gutierrez\ProyectoFinal\Agustin-Gutierrez\Agustin-Gutierrez\bin\Debug\net8.0\Agustin-Gutierrez.pdb
+D:\Vs\C#\Agustin-Gutierrez\ProyectoFinal\Agustin-Gutierrez\Agustin-Gutierrez\obj\Debug\net8.0\Agustin-Gutierrez.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vs\C#\Agustin-Gutierrez\ProyectoFinal\Agustin-Gutierrez\Agustin-Gutierrez\obj\Debug\net8.0\Agustin-Gutierrez.AssemblyInfoInputs.cache
+D:\Vs\C#\Agustin-Gutierrez\ProyectoFinal\Agustin-Gutierrez\Agustin-Gutierrez\obj\Debug\net8.0\Agustin-Gutierrez.AssemblyInfo.cs
+D:\Vs\C#\Agustin-Gutierrez\ProyectoFinal\Agustin-Gutierrez\Agustin-Gutierrez\obj\Debug\net8.0\Agustin-Gutierrez.csproj.CoreCompileInputs.cache
+D:\Vs\C#\Agustin-Gutierrez\ProyectoFinal\Agustin-Gutierrez\Agustin-Gutierrez\obj\Debug\net8.0\Agustin-Gutierrez.sourcelink.json
+D:\Vs\C#\Agustin-Gutierrez\ProyectoFinal\Agustin-Gutierrez\Agustin-Gutierrez\obj\Debug\net8.0\Agustin-Gutierrez.dll
+D:\Vs\C#\Agustin-Gutierrez\ProyectoFinal\Agustin-Gutierrez\Agustin-Gutierrez\obj\Debug\net8.0\refint\Agustin-Gutierrez.dll
+D:\Vs\C#\Agustin-Gutierrez\ProyectoFinal\Agustin-Gutierrez\Agustin-Gutierrez\obj\Debug\net8.0\Agustin-Gutierrez.pdb
+D:\Vs\C#\Agustin-Gutierrez\ProyectoFinal\Agustin-Gutierrez\Agustin-Gutierrez\obj\Debug\net8.0\Agustin-Gutierrez.genruntimeconfig.cache
+D:\Vs\C#\Agustin-Gutierrez\ProyectoFinal\Agustin-Gutierrez\Agustin-Gutierrez\obj\Debug\net8.0\ref\Agustin-Gutierrez.dll
